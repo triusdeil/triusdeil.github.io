@@ -35,7 +35,7 @@ export default function Navbar() {
               color: "#FFFFFF",
               backgroundColor: "#4B3AF0",
               borderRadius: 20,
-              width: "10%",
+              width: "8%",
               fontWeight: 550,
             }}
             variant="text"
