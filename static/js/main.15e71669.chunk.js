@@ -1,2 +1,0 @@
-(this["webpackJsonptriusdeil.github.io"]=this["webpackJsonptriusdeil.github.io"]||[]).push([[0],{10:function(e,t,i){"use strict";i.r(t);var c=i(1),n=i.n(c),r=i(3),s=i.n(r),o=(i(8),i(0));var u=function(){return Object(o.jsx)("div",{className:"App",children:Object(o.jsx)("h1",{children:"Welcome"})})};s.a.render(Object(o.jsx)(n.a.StrictMode,{children:Object(o.jsx)(u,{})}),document.getElementById("root"))},8:function(e,t,i){}},[[10,1,2]]]);
-//# sourceMappingURL=main.15e71669.chunk.js.map
